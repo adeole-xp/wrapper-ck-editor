@@ -1,0 +1,12 @@
+/**
+ * @fileoverview added by tsickle
+ * Generated from: lib/component/ck-editor/enums.model.ts
+ * @suppress {checkTypes,constantProperty,extraRequire,missingOverride,missingReturn,unusedPrivateMembers,uselessCode} checked by tsc
+ */
+/** @enum {string} */
+const CUSTOM_EVENTS = {
+    MAIN_COMPONENT: "MAIN_COMPONENT",
+    UPDATE_SESSION_INTERUPT: "UPDATE_SESSION_INTERUPT",
+};
+export { CUSTOM_EVENTS };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZW51bXMubW9kZWwuanMiLCJzb3VyY2VSb290Ijoibmc6Ly9jb21tb24tbGlicmFyeS8iLCJzb3VyY2VzIjpbImxpYi9jb21wb25lbnQvY2stZWRpdG9yL2VudW1zLm1vZGVsLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiI7Ozs7OztBQUtBLE1BQVksYUFBYTtJQUNyQixjQUFjLGtCQUFtQjtJQUNqQyx1QkFBdUIsMkJBQTRCO0VBQ3REIiwic291cmNlc0NvbnRlbnQiOlsiLyoqXG4gKiBAKCMpZW51bXMubW9kZWwudHMgTWFyIDEzLCAyMDIwIENvcHlyaWdodCAyMDIwLE92ZXJzaWdodCBTeXN0ZW1zLCBJbmMuIFByb3ByaWV0YXJ5IGFuZCBjb25maWRlbnRpYWxcbiAqXG4gKiBAYXV0aG9yIGFkZW9sZVxuICovXG5leHBvcnQgZW51bSBDVVNUT01fRVZFTlRTIHtcbiAgICBNQUlOX0NPTVBPTkVOVCA9ICdNQUlOX0NPTVBPTkVOVCcsXG4gICAgVVBEQVRFX1NFU1NJT05fSU5URVJVUFQgPSAnVVBEQVRFX1NFU1NJT05fSU5URVJVUFQnLFxufVxuIl19
